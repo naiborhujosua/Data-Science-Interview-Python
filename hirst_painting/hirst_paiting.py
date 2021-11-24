@@ -1,5 +1,5 @@
 # Draw Hirst Painting using Turtle
-![Hirst Painting]("")
+![Hirst Painting](https://github.com/naiborhujosua/100daysOfPythonCode/blob/main/hirst_painting/hirst_painting.gif)
 import random
 t.colormode(255)
 tim = t.Turtle()
