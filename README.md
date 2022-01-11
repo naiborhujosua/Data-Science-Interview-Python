@@ -6,7 +6,7 @@ This repository is used to practices our Python skills by questions of FAANG Com
 I try implementing my Python skills to improve and optimize our code style better and i believe the true education is when you can implement what you learn or **simply learn by doing**.
 You can access the questions in leetcode [Python Questions section](https://leetcode.com/problemset/all/)
 
-I included some resources to brush up on our technique in postgresql through a few sites
+I included some resources to brush up on our technique in python 3 through a few sites
 # List of Books i recommend to learn Python
 1. [Illustrated Guide to Python 3](https://www.amazon.com/Illustrated-Guide-Python-Walkthrough-Illustrations/dp/1977921752/ref=sr_1_4?qid=1641915214&refinements=p_27%3AMatt+Harrison&s=books&sr=1-4)
 2. [Guide to: Learning Python Decorators](https://www.amazon.com/Guide-Learning-Decorators-Matt-Harrison-ebook/dp/B006ZHJSIM/ref=sr_1_15?qid=1641915214&refinements=p_27%3AMatt+Harrison&s=books&sr=1-15)
