@@ -1,6 +1,6 @@
 
 # Most appearance Algorithms Questions in FAANG Companies for Data Scientist
-This repository is used to practices our Python skills by questions of FAANG Companies to improve our coding skills as a Data Scientist. Coding skills as an essential skills to improve how we can analyze our data better through simplifying the code better.
+This repository is used to practices our Python skills by questions of FAANG Companies to improve our coding skills as a Data Scientist. Coding skills as an essential skills to improve how we can analyze our data better through simplifying the code better. These questions consists of python concepts from  data structures, control flow statements and modules.
 
 ## The Motivations 
 I try implementing my Python skills to improve and optimize our code style better and i believe the true education is when you can implement what you learn or **simply learn by doing**.
