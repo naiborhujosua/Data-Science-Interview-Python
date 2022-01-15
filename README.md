@@ -11,6 +11,7 @@ I included some resources to brush up on our technique in python 3 through a few
 1. [Illustrated Guide to Python 3](https://www.amazon.com/Illustrated-Guide-Python-Walkthrough-Illustrations/dp/1977921752/ref=sr_1_4?qid=1641915214&refinements=p_27%3AMatt+Harrison&s=books&sr=1-4)
 2. [Guide to: Learning Python Decorators](https://www.amazon.com/Guide-Learning-Decorators-Matt-Harrison-ebook/dp/B006ZHJSIM/ref=sr_1_15?qid=1641915214&refinements=p_27%3AMatt+Harrison&s=books&sr=1-15)
 3. [Python Object-Oriented Programming: Build robust and maintainable object-oriented Python applications and libraries](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented-ebook/dp/B094DJYLTV)
+4. [Codility](https://app.codility.com/programmers/lessons/1-iterations/)
 
 
 I also included some financial statements to brush up on our knowledge of FAANG companies in order to know some metrics to business cases in FAANG companies. 
