@@ -18,5 +18,8 @@ I also included some financial statements to brush up on our knowledge of FAANG 
 1. [Amazon](https://github.com/naiborhujosua/faang_sql_questions_postgresql/blob/main/investorsrelations/AMZN-Q2-2021-Earnings-Release.pdf)
 2. [Facebook](https://github.com/naiborhujosua/faang_sql_questions_postgresql/blob/main/investorsrelations/Facebook-Reports-Third-Quarter-2020-Results-2020.pdf)
 
+## 💸 Donations
+Feel free to use the GitHub Sponsor button to donate towards my work if you think this project is helpful. 🤗
+
 
 
